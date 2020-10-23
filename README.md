@@ -3,6 +3,8 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/saengate/vue)](https://github.com/saengate/vue/graphs/contributors)
 [![Build Status](https://travis-ci.org/saengate/vue.svg?branch=master)](https://travis-ci.org/saengate/vue)
 
+Un contenedor con las configuraciones necesarias para iniciar un proyecto en Vue o en Nuxt
+
 ## Descripción Vue CLI v4.4
 
 Frontend de la aplicación
